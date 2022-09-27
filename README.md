@@ -1,4 +1,4 @@
-# Alura Studies
+# Alura Studies 📝
 
 ## Sobre o projeto
 <hr>
@@ -25,15 +25,15 @@
 <hr>
 <h3>Rodando o projeto</h3>
 <p> 
-# Clone esse repositório
+# Clone esse repositório <br>
 $ git clone https://github.com/kimberlisabino/alura-studies.git
 <br>
-# Entre no diretório
+# Entre no diretório <br>
 $ cd alura-studies
 <br>
-# Instalar dependências
+# Instalar dependências <br>
 $ npm install
 <br>
-# Inicie o projeto
+# Inicie o projeto <br>
 $ npm start
 </p>
